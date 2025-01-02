@@ -11,6 +11,8 @@ num is how many people down is the person you are trying to report inside of the
 
 change cd (in milliseconds) if it's glitching
 
+use on 1920x1080, NOT in full screen
+
 will be adding more
 
 # note
