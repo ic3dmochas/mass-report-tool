@@ -8,3 +8,7 @@ num is how many people down is the person you are trying to report inside of the
 change cd (in milliseconds) if it's glitching
 
 will be adding more
+
+#
+
+decompile the exe or build the exe yourself if you think it's malware
