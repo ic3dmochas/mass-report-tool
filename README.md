@@ -17,4 +17,4 @@ will be adding more
 
 # note
 
-decompile the exe or build the exe yourself if you think it's malware
+decompile the exe build the exe yourself, or just use the ahk file if you think it's malware
